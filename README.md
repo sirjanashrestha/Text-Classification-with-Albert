@@ -64,8 +64,8 @@ It appears that the training loss is fluctuating slightly over epochs, while the
 
 ![Alt text](images/16.png)
 
-When evaluated on the training set, the overall accuracy of the model on the training set is 62.66%. This indicates that the model correctly predicts the sentiment for approximately 62.66% of the reviews in the training dataset
+When evaluated on the training set, the overall accuracy of the model on the training set is 62.66%. This indicates that the model correctly predicts the sentiment for approximately 62.66% of the reviews in the training dataset. 
 ![Alt text](images/17.png)
 
 ## Conclusion
-This project leverages the power of ALBERT, a cutting-edge transformer-based language model, to tackle the task of sentiment analysis on Amazon reviews. Despite observing fluctuations in training loss, the model's validation accuracy remains stagnant at 63.08%, prompting further investigation into potential optimization method. Fine-tuning model hyperparameters, such as learning rate or batch size, could potentially enhance model learning and generalization
+This project leverages the power of ALBERT, a cutting-edge transformer-based language model, to tackle the task of sentiment analysis on Amazon reviews. Despite observing fluctuations in training loss, the model's validation accuracy remains stagnant at 63.08%, prompting further investigation into potential optimization method. Fine-tuning model hyperparameters, such as learning rate or batch size, could potentially enhance model learning and generalization.
